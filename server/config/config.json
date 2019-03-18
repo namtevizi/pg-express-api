@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "namtran",
+    "password": null,
+    "database": "bookstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "namtran",
+    "password": null,
+    "database": "bookstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "namtran",
+    "password": null,
+    "database": "bookstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
